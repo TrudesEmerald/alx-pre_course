@@ -1,5 +1,5 @@
 
 
 ###My first git project
-   This is my first project in the Alx software engineering 2022.
+   This is a project in the Alx software engineering 2022.
 
